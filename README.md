@@ -70,5 +70,3 @@ This project was completed as part of a traineeship program with MedTourEasy. Sp
 For any questions or further information, please contact Tejasva Maurya at mauryatejasva512004@gmail.com
 
 ---
-
-Feel free to customize this README to better fit your project details and personal preferences.
