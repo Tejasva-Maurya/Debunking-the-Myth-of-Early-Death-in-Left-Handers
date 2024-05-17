@@ -50,8 +50,8 @@ The project opens several avenues for further research:
 
 1. Clone the repository:
    ```bash
-  git clone https://github.com/Tejasva-Maurya/Debunking-the-Myth-of-Early-Death-in-Left-Handers.git
-  ```
+   git clone https://github.com/Tejasva-Maurya/Debunking-the-Myth-of-Early-Death-in-Left-Handers.git
+   ```
 2. Navigate to the project directory:
    ```bash
    cd Debunking-the-Myth-of-Early-Death-in-Left-Handers
