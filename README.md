@@ -67,7 +67,7 @@ This project was completed as part of a traineeship program with MedTourEasy. Sp
 
 ## Contact
 
-For any questions or further information, please contact Tejasva Maurya at tejasva.maurya@example.com.
+For any questions or further information, please contact Tejasva Maurya at mauryatejasva512004@gmail.com
 
 ---
 
